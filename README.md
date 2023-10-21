@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/sandinur157" target="_blank"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400"></a>
+    <a href="https://github.com/Kantrawibawa10" target="_blank"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400"></a>
 </p>
 
 ## Tentang Aplikasi
